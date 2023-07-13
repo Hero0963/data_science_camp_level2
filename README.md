@@ -1,4 +1,6 @@
-# data_science_camp_level2
+# data_science_camp (dscamp) is an online course
+
+# This repository contains the code for various tasks.
 
 ## task02  
 - numpy and pandas 
